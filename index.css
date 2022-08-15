@@ -25,3 +25,52 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+
+* {
+    font-family: Copperplate;
+    
+}
+
+body {
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title {
+    text-align: center;
+    background-image: linear-gradient(rgb(116, 201, 241), rgb(251, 64, 64));
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#row1-section2 {
+    background-color:rgb(116, 201, 241);
+    width: 57%;
+    margin-left: 10%;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-shadow: 2px 2px black;
+    
+}
+
+#row2-section2 {
+    background-color:rgb(251, 64, 64);
+    margin-left: 30%;
+    width: 57%;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#jordans-1 {
+    margin-left: 10%;
+}
+
+#jordans-2 {
+    margin-top: 10px;
+    margin-left: 30%;
+}
